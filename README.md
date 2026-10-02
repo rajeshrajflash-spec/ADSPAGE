@@ -1,2 +1,2 @@
 # ADSPAGE
-ADSPAGE™ - Hyper-Local Advertising Platform
+ADSPAGE™ - Hyper-Local Advertising Platform.
